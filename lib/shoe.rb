@@ -10,5 +10,6 @@ class Shoe
     def cobble
       puts "Your shoe is as good as new!"
     end
-   shoe.conditon = "new"
+   def conditon = "new"
+   end
 end
